@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://samuelki:samuelki@devconnect.sl3jznz.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "82d01848059852d7e772",
+  "githubSecret": "9e5c1778b8aa4b392d62ebb31c47bae9bab5b950"
+}
