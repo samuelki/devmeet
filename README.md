@@ -4,7 +4,7 @@
 
 This web application was built using the MERN stack (MongoDB, Express, React, Node).
 
-# Quick Start 🚀
+## Quick Start 🚀
 
 ### Add a default.json file in config folder with the following
 
